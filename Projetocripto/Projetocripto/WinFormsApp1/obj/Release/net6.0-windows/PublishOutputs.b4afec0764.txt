@@ -1,0 +1,5 @@
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.exe
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.dll
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.deps.json
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.runtimeconfig.json
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Release\net6.0-windows\app.publish\WinFormsApp1.pdb

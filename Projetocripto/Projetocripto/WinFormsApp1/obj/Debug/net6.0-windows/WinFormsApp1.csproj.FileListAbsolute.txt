@@ -1,0 +1,85 @@
+C:\Users\gabri\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\gabri\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\gabri\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\gabri\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\gabri\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\gabri\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.senhatexto.resources
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.senhatexto.resources
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Família\Downloads\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.senhatexto.resources
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+Z:\OneDrive_1_15-08-2023\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.senhatexto.resources
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+Z:\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.senhatexto.resources
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+Z:\1-2 sem\Algoritmos\projetosc#\gotoDecrypter\Projetocripto\Projetocripto\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
